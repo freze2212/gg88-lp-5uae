@@ -1620,5 +1620,15 @@
   "www.gg88ns.com": {
     "main_url": "https://t.me/",
     "messenger_url": "https://t.me/"
+  },
+  "gg88c8.com": {
+    "main_url": "https://gg8859.com/?id=496740750",
+    "messenger_url": "https://gg8859.com/?id=496740750",
+    "telegram_url": "https://gg8859.com/?id=496740750"
+  },
+  "www.gg88c8.com": {
+    "main_url": "https://gg8859.com/?id=496740750",
+    "messenger_url": "https://gg8859.com/?id=496740750",
+    "telegram_url": "https://gg8859.com/?id=496740750"
   }
 }
